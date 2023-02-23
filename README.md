@@ -1,4 +1,4 @@
-# Exercise-Analysis
+# Exercise Analysis
 This is my Third Excel and Power BI project done in Data Analysis Field. This project, Exercise Analysis is based on :
 <br /> Personal Activity That can be categorized by 
 * Total steps by Activity 
